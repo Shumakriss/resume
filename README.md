@@ -22,7 +22,7 @@ Andrew Ng's famous machine learning course was fascinating! If you would like to
 https://github.com/Shumakriss/CourseraML
 
 ### Machine Learning Tutorials
-This project was dedicated to implementing tutorials at http://machinelearningmastery.com while converting them to an iPython notebook format.<br/>
+This project was dedicated to implementing tutorials at machinelearningmastery.com while converting them to an iPython notebook format.<br/>
 https://github.com/Shumakriss/MachineLearningTutorials
 
 ### Build Butler 1.0
