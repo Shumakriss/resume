@@ -1,3 +1,6 @@
+# Christopher Shumaker
+Hello and thank you for viewing my resume page. Look below for my resume and descriptions of projects. Feel free to explore the rest of my Github while you are here. Thank you again!
+
 ## A Quick History
 I hope you find this infographic a quick and easy way to see my experiences and endeavors! Links to the projects mentioned will be available below the infographic. If you cannot see the infographic, please click on the image link below. If you cannot see either, send me a message and I would be happy to send a copy to you!
 
