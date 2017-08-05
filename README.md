@@ -2,7 +2,7 @@
 Hello and thank you for viewing my resume page. Look below for my resume and descriptions of projects. Feel free to explore the rest of my Github while you are here. Thank you again!
 
 ## A Quick History
-I hope you find this infographic a quick and easy way to see my experiences and endeavors! Links to the projects mentioned will be available below the infographic. If you cannot see the infographic, please click on the image link below. If you cannot see either, send me a message and I would be happy to send a copy to you!
+I hope you find this infographic a quick and easy way to see my experiences and endeavors! Links to the projects mentioned will be available below the infographic. If you cannot see the infographic, try reloading the page. If you still cannot see the infogrpahic, please click on the image link below. I can also send you a copy as well!
 
 <img src="https://docs.google.com/drawings/d/1KkPa5rz64fCK_78Y1i78fHuhwYXlpkRyy178Y2TL1C8/pub?w=2020&amp;h=3561" alt="Please click the image icon if it fails to load">
 
