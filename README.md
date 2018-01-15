@@ -9,6 +9,24 @@ I hope you find this infographic a quick and easy way to see my experiences and 
 ## Christopher Shumaker's Projects
 I have included a brief description and links for just a few of my projects ranging from business process management and microservices to machine learning and robotics.
 
+### Build Butler 1.0
+This was my first endeavor into creating a "robot brain" which uses a finite state machine to integrate various human-computer interaction tools like face detection and recognition, speech to text, and text to speech. The aim of the project is to create a fun, friendly robot that notifies team members when their software build breaks.<br/>
+https://github.com/Shumakriss/build_butler
+
+### Build Butler 2.0
+Continuing the Build Butler legacy, version 2.0 does away with the finite state machine in favor of a streaming architecture. This project is essentially an IoT project without the mobile app. It is always-on and event-sourced. Developers can subscribe to any feed they want such as audio, video, text transcription, names of faces, etc. and easily add new producers and consumers to this Kafka-based project.<br/>
+https://github.com/Shumakriss/build_butler-2.0
+
+### Build Butler 3.0
+Coming soon! Build Butler 3.0 is in progress and utilizes AWS for simplicity, scalability, and reliability. Using AWS, this project is largely configuration but I intend to post the local client for the robot and, if possible, a CloudFormations config so you can repeat it yourself. 
+
+Services involved:
+* CodeCommit & CodeBuild
+* CloudWatch
+* SNS
+* Kinesis Video & Data Streams
+* Rekognition
+
 ### Spring Boot and RabbitMQ
 Microservices benefit immensely from having an asynchronous, loosely-coupled backend means of interprocess communication. They also benefit from containerization which helps streamline deployment, scalability, and repeatable builds. This project integrates all of these aspects with Docker, Spring Boot, and RabbitMQ to create a docker-compose ready base project.<br/>
 https://github.com/Shumakriss/spring-boot-rabbitmq
@@ -24,11 +42,3 @@ https://github.com/Shumakriss/CourseraML
 ### Machine Learning Tutorials
 This project was dedicated to implementing tutorials at machinelearningmastery.com while converting them to an iPython notebook format.<br/>
 https://github.com/Shumakriss/MachineLearningTutorials
-
-### Build Butler 1.0
-This was my first endeavor into creating a "robot brain" which uses a finite state machine to integrate various human-computer interaction tools like face detection and recognition, speech to text, and text to speech. The aim of the project is to create a fun, friendly robot that notifies team members when their software build breaks.<br/>
-https://github.com/Shumakriss/build_butler
-
-### Build Butler 2.0
-Continuing the Build Butler legacy, version 2.0 does away with the finite state machine in favor of a streaming architecture. This project is essentially an IoT project without the mobile app. It is always-on and event-sourced. Developers can subscribe to any feed they want such as audio, video, text transcription, names of faces, etc. and easily add new producers and consumers to this Kafka-based project.<br/>
-https://github.com/Shumakriss/build_butler-2.0
