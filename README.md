@@ -27,6 +27,11 @@ Services involved:
 * Kinesis Video & Data Streams
 * Rekognition
 
+#### Architecture on AWS
+If you cannot see the image, please click on the image link below:
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vQuOG1ZYGex3PXp1YWlOT30PUYj9DhOEl78tnAot_zCeP7UO4vzmRx1e_CJ1ih27t5667_9Mu2Jh-ii/pub?w=4775&amp;h=3994" alt="Please click the image icon if it fails to load">
+
 ### Spring Boot and RabbitMQ
 Microservices benefit immensely from having an asynchronous, loosely-coupled backend means of interprocess communication. They also benefit from containerization which helps streamline deployment, scalability, and repeatable builds. This project integrates all of these aspects with Docker, Spring Boot, and RabbitMQ to create a docker-compose ready base project.<br/>
 https://github.com/Shumakriss/spring-boot-rabbitmq
